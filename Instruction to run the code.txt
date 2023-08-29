@@ -1,0 +1,31 @@
+How to run the code:
+
+1)unzip and extract all the file.
+
+2)open in any code editor(My_todo_app folder)
+
+3)go to client and server path and install all the dependencies using npm install command. 
+(if required npm install --force)
+
+4)after all the dependencies added run npm start on both client and server.
+
+5)you will be redirected to http://localhost:3000/ where app is running.
+
+
+features added in TODO_App:
+
+1)We can add, update, delete any todos.
+
+2)We can search the Todos.
+
+3)We can sort Todos by completed or pending status.
+
+4)Also we can check no. of completed and pending tasks by bar graph.
+
+
+please let me know if we have any queries.
+
+
+
+
+
